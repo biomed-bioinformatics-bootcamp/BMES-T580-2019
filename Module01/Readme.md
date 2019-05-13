@@ -11,7 +11,7 @@
  - Python 3
  - PyCharm Editor
  
-## Assignment
+## Assignment (due 6/26/19)
 
 1. Complete the Hello World assignment from PJS.
   - Implement the `hello_world.py` program described in Module 01 of the [Python Jump Start Course](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/01_hello_world). 
