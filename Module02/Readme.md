@@ -38,7 +38,7 @@ Dozens of molecular biology techniques use oligigonucleotide primers as fundemen
 These primers consist of short segments (15-45bp) of single-stranded DNA that researchers use to create short double-stranded segments of initially single-stranded DNA. 
 In order for this annealing to happen, they must identically match the target sequence *(technically it must match the reverse-complement, but we'll deal with that in Module 6)*.
 
-Make a program using the [Guess That Number](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/02-guess-number-app) as a template. 
+Make a program using the [Guess That Number](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/02-guess-number-app) as a template and make a `guess_that_primer.py` file in the `Module02` directory.
 Modify the code to have the following features.
 
   - Replace the "guess a number" code with something that generates a random DNA string. Make the string 5 letters long.

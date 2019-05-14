@@ -16,8 +16,10 @@
 
 1. Complete the Hello World assignment from PJS.
    
-   - Complete the `hello_world.py` program described in Module 01 of the [Python Jump Start Course](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/01_hello_world). 
-   - Upload a screenshot of the running Hello World program to BBLearn for your "Assignemnt".
+   - Complete the [Hello World App](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/01_hello_world) and save your file as `hello_world.py` in the `Module01` directory.
+   - Take a screenshot of the working code.
+   - Adjust the `Module01\Readme.md` so it properly displays your screenshot.  
+   - Upload a screenshot of the running Hello World program to BBLearn for your "Assignment".
 
 ## Rubric
 
