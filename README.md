@@ -45,3 +45,11 @@ This will help students learn good code management techniques as well as develop
 Each module will be graded equally on a 100 point scale that will be averaged across all modules to calculate a final grade.
 Rubrics are included in each module and detail the specific point distribution for each assignment.
 Letter grades will be assigned using the standard Drexel scale.
+
+## Credits
+
+### Course Development
+Will Dampier (judowill)
+
+### Course Work
+Your Name here.
