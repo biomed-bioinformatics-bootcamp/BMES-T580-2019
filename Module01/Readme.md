@@ -5,7 +5,7 @@
 - Setup Github
  - Create user account
  - Signup for the correct Git Classroom
- - MOdiFY this LINE through GtHub to fx typoz
+ - CHnGE this LINE through GtHub to fx typoz
    - Commit directly to the `master` branch
 - Installing and setting up your Python Environment
  - Python 3
@@ -14,8 +14,9 @@
 ## Assignment (due 6/26/19)
 
 1. Complete the Hello World assignment from PJS.
-  - Implement the `hello_world.py` program described in Module 01 of the [Python Jump Start Course](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/01_hello_world). 
-  - Upload a screenshot of the running Hello World program to BBLearn for your "Assignemnt".
+   
+   - Complete the `hello_world.py` program described in Module 01 of the [Python Jump Start Course](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/01_hello_world). 
+   - Upload a screenshot of the running Hello World program to BBLearn for your "Assignemnt".
 
 ## Rubric
 

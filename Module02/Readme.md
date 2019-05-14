@@ -34,11 +34,12 @@
 
 ### Guess A Primer
 
-Oligigonucleotide primers are a fundemental tool in many molecular biology techniques. 
-These are short segments (15-45bp) of DNA that are often used to create short double-stranded segments of initially single-stranded DNA. 
-In order for this annealing to happen, they must exactly match the target sequence *(technically it must match the reverse-complement, but we'll deal with that in Module 6)*.
+Dozens of molecular biology techniques use oligigonucleotide primers as fundemental tools to answer bioligical questions.
+These primers consist of short segments (15-45bp) of single-stranded DNA that researchers use to create short double-stranded segments of initially single-stranded DNA. 
+In order for this annealing to happen, they must identically match the target sequence *(technically it must match the reverse-complement, but we'll deal with that in Module 6)*.
 
-Make a program using the [Guess That Number](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/02-guess-number-app) as a template. Modify the code to have the following features.
+Make a program using the [Guess That Number](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/02-guess-number-app) as a template. 
+Modify the code to have the following features.
 
   - Replace the "guess a number" code with something that generates a random DNA string. Make the string 5 letters long.
   - Provide the user with the number letters to guess.
