@@ -5,8 +5,9 @@
 - Setup Github
  - Create user account
  - Signup for the correct Git Classroom
+ - Add your name and github handle to the credits section of the main Readme
  - CHnGE this LINE through GtHub to fx typoz
-   - Commit directly to the `master` branch
+   - Commit directly to the `master` branch   
 - Installing and setting up your Python Environment
  - Python 3
  - PyCharm Editor
@@ -34,7 +35,8 @@
 
 |  Rubric                 | Score  | 
 |-------------------------|--------|
-| Typos Fixed             |  -/25  |
+| Typos Fixed             | -/12.5 |
+| Name Added              | -/12.5 |
 | Commit message provided |  -/25  |
 
 *Final Grade: -/100*
