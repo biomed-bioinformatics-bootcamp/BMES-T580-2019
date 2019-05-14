@@ -25,7 +25,7 @@
 ## Assignment (due 7/7/19)
 
 1. Choose a partner (or group of 3) for the assignment.
-2. Do a code-review of your partner's Pregnancy Wheel using the Github editor.
+2. Do a code-review of your partner's Pregnancy Wheel by forking as described below.
 3. Merge the code-review comments into your own repository on a new branch
 4. Address the comments in the new branch with additional commits
 5. Push the new branch to Github and re-review the edits with your partner
@@ -59,21 +59,37 @@ In addition to the points mentioned in the Medium article linked above, look out
 - Lines that are too long 
 - Complex programming logic
  
-Use Github's web-editing function to make comments in your partner's Journal App. Remember `# starts comment lines` in Python. 
-After your partner has commented on your code you will need to download the newly created branch.
-Use the command `git fetch origin *branch_name*`, this will download the new branch into the local repository.
-Then using `git checkout *branch_name*` will change the working-directory to the new changes.
-In this way your original code stays unchanged while you address these comments.
+For this code-review I want you to both make the comment AND fix the issue.
+If the variable names are non-descriptive, make the comment, and replace them with more descriptive ones.
+If the lines are too long, make the comment, and adjust them to be shorter.
+For this excercise, focus on improving legibility.
+Most importantly, the code needs to run after the changes! Don't break someone else's code.
 
-After you've made the changes commit and then use `git push origin *branch_name*`. 
-This will move those changes back up to Github. Use the `@github_name` of your partner to alert them to your new changes.
-Once your partner confirms these changes, this may take more than one round of comments, it is time to merge the changes into your master branch.
- 
-On your local copy checkout the master branch using `git checkout master`. 
-You should see that all of the changes you made will disappear. DON'T PANIC.
-Now, we merge the changes from that branch into your master using `git merge *branch_name*`.
-After the merge, check the files to make sure everything came along. 
-Then commit and push using `git push origin master`.
+### Git Workflow
+
+I have summarized much of this content the Git explainers referenced in the notes section. 
+Please read the source for additional context.
+If you Google around on your own, which I highly encourage, you will find 4 common Git workflows. 
+To avoid confusion please stick to explanations of the "Feature Branch" workflow.
+I've added links to the relevant parts below. 
+I've also split this explanation up based on your current role in the review process.
+
+*Reviewer*
+  1. Use Github's tools to create a fork of your partner's repo.
+  2. Clone that repo to a NEW directory.
+  3. Create a new branch using `git checkout -b wheel_code_review`
+  4. Use Pycharm to add comments and improve the code.
+  5. Commit as usual.
+  6. Push to a new remote branch using `git push origin wheel_code_review`
+  7. Github should now give you an option to create a new Pull Request. [Like this](https://gist.github.com/vlandham/3b2b79c40bc7353ae95a#create-pull-request)
+  8. In the comments on the Pull Request post a screenshot of the working code.
+  
+*Developer*
+Github's tools make reviewing and accepting a Pull Request easy. 
+This helps project maintainers coordinate a streamlined workflow.
+  1. Github processes the Pull Request, you should get an email and your Repo homepage will change a bit ([Read more](https://gist.github.com/vlandham/3b2b79c40bc7353ae95a#finding-pull-requests)).
+  2. If the Pull Request is acceptable you can use Github's tools to automaticall merge everything.
+
 
 ## Rubric
 
@@ -100,8 +116,5 @@ Then commit and push using `git push origin master`.
 
 ## Resources Used
 
-- Datetime module: https://docs.python.org/3/library/datetime.html
-- Wikipedia explanation on calculating due-dates: https://en.wikipedia.org/wiki/Estimated_date_of_delivery
-
-
-[^1]: Bergsjø P, Denman DW 3rd, Hoffman HJ, Meirik O. (1990). "Duration of human singleton pregnancy. A population-based study". Acta Obstet Gynecol Scand: 197–207.
+- General walkthrough of the Feature Branch git strategy https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+- Walkthrough of Github specific actions https://gist.github.com/vlandham/3b2b79c40bc7353ae95a#finding-pull-requests
