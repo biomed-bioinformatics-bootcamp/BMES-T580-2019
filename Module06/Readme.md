@@ -21,14 +21,13 @@
 ## Assignment (due 7/14/19)
 
 The goal of this project is to make small tool that can isolate sequences that contain complete Open Reading Frames (ORFs).
-This directory contains a `.fasta` file containing a short subset of sequences generated from a sequencing a patient isolate of H flu.
 Write a program that has the following features.
 
-1. It asks the user for the name of the file for processing doing basic input validation.
-2. It uses the BioPython module to read each sequence.
-3. It searches for sequences that have complete ORFs; sequences that contain a start codon and in-frame stop codon.
+1. It asks the user for a DNA sequence.
+2. It asks the user for a path to write a results file.
+3. It searches the sequence for all ORFs.
 4. It checks both strands for ORFs.
-5. It writes the *translated* amino acid sequence to a file while preserving the original header information.
+5. It writes the *translated* amino acid sequences to the file. 
 6. It prints summary information about how many sequences it processed and how many ORFs it found.
 
 ## Rubric
@@ -57,5 +56,6 @@ Write a program that has the following features.
 
 ## Resources Used
 
-- Python `request` module discussion https://realpython.com/python-requests/
-- `BeautifulSoup` module documentation https://www.crummy.com/software/BeautifulSoup/bs4/doc/ 
+- Python `BioPython` module documentation https://biopython.org/wiki/Documentation
+- `BioPython` cookbook http://biopython.org/DIST/docs/tutorial/Tutorial.html
+- Reference for common sequence formats https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/file-formats-tutorial/
