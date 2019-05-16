@@ -35,7 +35,7 @@ This will help students learn good code management techniques as well as develop
 | Module 5   |  PJS: Weather Client       | 7/9/19      | CSV Parsing         | 7/10/19  |
 | Module 6   |  PJS: Wizard Battle        | 7/11/19     | BioPython Intro     | 7/14/19  |
 | Module 7   |  PJS: LOLCat Factory       | 7/16/19     | Histology Images    | 7/17/19  |
-| Module 8   |  PJS: File Searching       | 7/18/19     | Subprocessing       | 7/21/19  |
+| Module 8   |  PJS: File Searching       | 7/18/19     | Jupyter Notebook    | 7/21/19  |
 | Module 9   |  PJS: Real estate analysis | 7/23/19     | Pandas Data mining  | 7/24/19  |
 | Module 10  |  None                      | 7/25/19     | Seaborn Visualiztion| 7/28/19  |
 
