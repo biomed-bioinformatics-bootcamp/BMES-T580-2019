@@ -2,13 +2,14 @@
 
 ## Learning Objectives:
 
-- Setup Github
+### Setup Github
  - Create user account
  - Signup for the correct Git Classroom
  - Add your name and github handle to the credits section of the main Readme
  - CHnGE this LINE through GtHub to fx typoz
    - Commit directly to the `master` branch   
-- Installing and setting up your Python Environment
+
+### Installing and setting up your Python Environment
  - Python 3
  - PyCharm Editor
  
