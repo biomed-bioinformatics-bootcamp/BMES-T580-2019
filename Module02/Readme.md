@@ -1,14 +1,14 @@
 # Module 2: Guessing Games
 
-
 ## Learning Objectives:
 
-- Utilizing a simple Git workflow
+### Utilizing a simple Git workflow
  - Editing Readme files
  - Checking in/out code
  - Pushing and Pulling code to/from a repository
  - Accepting & merging Pull Requests
-- Understanding basic programming concepts
+
+### Understanding basic programming concepts
  - Loops
  - Basic user input
  - Conditionals and Booleans
@@ -17,7 +17,7 @@
 
 ## PreClass Assignment
 
-1. Complete the Guess that number assignemnt from PJS.
+1. Complete the Guess that number assignment from PJS.
   - Check-in and Push the changes to your local repository
   - Check-in and Push a screenshot of you playing the game
  
