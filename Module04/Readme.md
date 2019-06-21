@@ -107,12 +107,12 @@ This helps project maintainers coordinate a streamlined workflow.
 
 |  Rubric        | Score | 
 |----------------|-------|
-| Review of partner's code   |  -/20  |
-| Addressing your partner's comments on your code |  -/20  |
-| Prompt responses to clarifications  |  -/10  |
-| Professionalism during the process | -/10
+| Review of partner's code   |  -/5  |
+| Addressing your partner's comments on your code |  -/10  |
+| Prompt responses to clarifications  |  -/5  |
+| Professionalism during the process | -/5 |
 
-*Final Grade: -/100*
+*Final Grade: -/50*
 
 ## Resources Used
 
