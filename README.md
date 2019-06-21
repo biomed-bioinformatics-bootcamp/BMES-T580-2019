@@ -31,7 +31,7 @@ This will help students learn good code management techniques as well as develop
 | Module 1   |  None                      | 6/25/19     | Hello World         | 6/26/19  |
 | Module 2   |  PJS: Guess That number    | 6/27/19     | Guess That Primer   | 6/30/19  |
 | Module 3   |  PJS: Birthday App         | 7/2/19      | Pregnancy Wheel     | 7/3/19   |
-| Module 4   |  PJS: Personal Journal     | 7/4/19 (TBD)| None (Holiday)      | 7/7/19   |
+| Module 4   |  PJS: Personal Journal     | 7/4/19 (TBD)| Code Review         | 7/7/19   |
 | Module 5   |  PJS: Weather Client       | 7/9/19      | CSV Parsing         | 7/10/19  |
 | Module 6   |  PJS: Wizard Battle        | 7/11/19     | BioPython Intro     | 7/14/19  |
 | Module 7   |  PJS: LOLCat Factory       | 7/16/19     | Histology Images    | 7/17/19  |
@@ -42,7 +42,7 @@ This will help students learn good code management techniques as well as develop
 
 ## Course Grading
 
-Each module will be graded equally on a 100 point scale that will be averaged across all modules to calculate a final grade.
+Each module will be graded equally on a 50 point scale that will be averaged across all modules to calculate a final grade.
 Rubrics are included in each module and detail the specific point distribution for each assignment.
 Letter grades will be assigned using the standard Drexel scale.
 
