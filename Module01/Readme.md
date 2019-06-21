@@ -28,21 +28,21 @@
 
 |  Rubric        | Score | 
 |----------------|-------|
-| Working Code   |  -/10  |
-| PEP8 Compliant |  -/10  |
-| Comments       |  -/10  |
-| Screenshot     |  -/10  |
-| On Time        |  -/10  |
+| Working Code   |  -/5  |
+| PEP8 Compliant |  -/5  |
+| Comments       |  -/5  |
+| Screenshot     |  -/5  |
+| On Time        |  -/5  |
 
 ### Github Typo Correction:
 
 |  Rubric                 | Score  | 
 |-------------------------|--------|
-| Typos Fixed             | -/12.5 |
-| Name Added              | -/12.5 |
-| Commit message provided |  -/25  |
+| Typos Fixed             |   -/10 |
+| Name Added              |   -/10 |
+| Commit message provided |   -/5  |
 
-*Final Grade: -/100*
+*Final Grade: -/50*
 
 ## Resources Used
 
