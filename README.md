@@ -5,7 +5,7 @@ This course will teach the basic concepts behind Python programming using hands 
 This course is designed to provide students without previous programming knowledge guided ramp for learning the many aspects of programming including data analysis, file handing, version control, and task automation. 
 
 ## Prerequisites
-_None._
+_None_
 
 ## Course Learning Outcomes
 - Have an ability to use Python to solve simple data analysis tasks.
